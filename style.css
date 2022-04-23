@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.geral {
+    background-color: blue;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.topo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    width: 100%;
+    height: 15%;
+    text-align: center;
+}
+
+.corpo{
+    padding-top: 10px;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+
+.img{
+    border-style: none;
+    border-radius: 5%;
+    border-color: black;
+    background-color: #000000;
+}
+
+
+.sobre{
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 25%;
+    padding-bottom: 10px;
+    border-style: outset;
+    border-radius: 5px;
+    border-color: gray;
+}
+
+.conteudo3 {
+    color: aliceblue;
+    width: 100%;
+    text-align: center;
+}
+
+.botao{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 20%;
+    height: 10%;
+    color: aliceblue;
+    cursor: pointer;
+    border-style: solid;
+}
+
+.rodape {
+    color: aliceblue;
+    width: 100%;
+    height: 15%;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* view */
+
+.geral-reserva {
+    width: auto;
+    height: auto;
+    background-color: white;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topo-reserva {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: aliceblue;
+    width: 100%;
+    height: 15%;
+    text-align: center;
+}
+
+.subtitulo-reserva{
+    margin-left: 42.9%;
+}
+
+.corpo-reserva{
+    align-items: left;
+    background-color: whitesmoke;
+}
+
+
+.conteudo-form{
+    align-items: left;
+}
+
+.linha2 {
+    padding-top: 5px;
+}
+
+.button {
+    font-size: large;
+    border-radius: 5px;
+    border-color: rgb(120, 28, 46);
+}
+
+.buttonIdade {
+    border-radius: 5px;
+    border-color: rgb(120, 28, 46);
+}
+
+div {
+    padding-top: 10px;
+}
+
+form {
+    font-size: large;
+    margin-left: 35%;
+    display: block;
+    padding: 5%;
+}
+
+.button2{
+    border-radius: 28px; 
+    display: inline-block; 
+    cursor: pointer; 
+    color: #141111; 
+    font-family: Arial; 
+    font-size: 16px;  
+    padding:14px 18px;
+    margin-left: 1%;
+    margin-right: 2%;
+    text-decoration: none; 
+}
